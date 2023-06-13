@@ -1,6 +1,6 @@
 # GPT prompts
 
-This directory contains a collection of prompts that I have made for GPT-3. I.
+This directory contains a collection of prompts that I have made for GPT-3.
 
 ## Prompts
 
