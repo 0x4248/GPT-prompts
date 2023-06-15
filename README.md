@@ -8,6 +8,7 @@ This directory contains a collection of prompts that I have made for GPT-3.
 - [Generate a story](#generate-a-story)
 - [Generate a script](#generate-a-script)
 - [Generate a poem](#generate-a-poem)
+- [Generate a song](#generate-a-song)
 
 ### Generate code
 
@@ -53,4 +54,12 @@ This prompt generates a poem.
 
 ```
 Generate a poem that is at least 20 lines long that has rhythm and rhymes. The poem should be about a topic of your choice. The poem should have a title as a heading.
+```
+
+### Generate a song
+
+This prompt generates a song with a title, lyrics, and genre.
+
+```
+Generate a song that is at least 20 lines long that has rhythm and rhymes. The song should be about a topic of your choice. The song should have a title as a heading and a genre.
 ```
